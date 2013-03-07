@@ -1,0 +1,1 @@
+<select name="cat_id" id="cat_id"><option value="">&nbsp;&nbsp;Portfolio type</option><option value="4">Branding</option><option value="6">Illustration</option><option value="7">Portfolio</option><option value="3">Web &amp; Mobile</option><option value="">&nbsp;&nbsp;Blog type</option> </select>
